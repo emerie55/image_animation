@@ -7,6 +7,10 @@
     <title>CERT</title>
 
     <style>
+        body{
+            background:#ccc;
+        }
+
         .certbox{
             margin: 50px auto;
             width:30%;
