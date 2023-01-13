@@ -43,7 +43,9 @@
     </style>
 </head>
 <body>
-    <h2>Image Animation</h2>
+    <center>
+        <h2><u>Image Animation</u></h2>
+    </center>
     <div class="certbox">
         <img src="cert.jpg" alt="JBC CERT" class="certimg">
     </div>
